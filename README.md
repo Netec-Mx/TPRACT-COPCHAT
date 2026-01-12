@@ -1863,7 +1863,7 @@ Lista las capacitaciones disponibles que aborden la nube de AWS. Brinda los deta
 
 15.   En la zona inferior tiene la lista de recursos, así como el historial de chats que se han venido usando en el Notebook (imágenes referenciales):
 
-![Imagen 150.](/images/Imagen150.png "Imagen 150")
+![Imagen 151.](/images/Imagen151.png "Imagen 151")
 
 ![Imagen 151.](/images/Imagen151.png "Imagen 151")
 
