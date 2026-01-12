@@ -1891,7 +1891,3 @@ Usa términos simples para entendimiento de una audiencia amplia
 
 
 ![Imagen 156.](/images/Imagen156.png "Imagen 156")
-
-```
-
-
