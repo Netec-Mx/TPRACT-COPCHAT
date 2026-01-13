@@ -47,11 +47,11 @@ Los documentos a disposición son los siguientes:
 
 3. Aparecerá la página de Notebooks (imagen referencial):
 
-![Imagen 141.](/images/Imagen141.png "Imagen 141")
+![Imagen 141.](../images/Imagen141.png "Imagen 141")
 
 4. Haga clic en la opción + New notebook
 
-![Imagen 142.](/images/Imagen142.png "Imagen 142")
+![Imagen 142.](../images/Imagen142.png "Imagen 142")
 
 5. Establece como nombre CursosNube
 
@@ -66,15 +66,15 @@ Los documentos a disposición son los siguientes:
 
 8. Aparecerá la pagina del notebook creado CursosNube
 
-![Imagen 143.](/images/Imagen143.png "Imagen 143")
+![Imagen 143.](../images/Imagen143.png "Imagen 143")
 
 9. Seleccione el enlace Add Copilot instructions. Aparecerá la siguiente ventana (imagen referencial):
 
-![Imagen 144.](/images/Imagen144.png "Imagen 144")
+![Imagen 144.](../images/Imagen144.png "Imagen 144")
 
 10.   Escriba el siguiente texto y haga clic en Save (imagen referencial):
 
-![Imagen 145.](/images/Imagen145.png "Imagen 145")
+![Imagen 145.](../images/Imagen145.png "Imagen 145")
 
 11.   De regreso a la página del Notebook, aplique el siguiente prompt:
 
@@ -83,47 +83,47 @@ Lista las capacitaciones disponibles que aborden la nube de AWS. Brinda los deta
 ```
 12.   Observe la respuesta devuelta por Copilot (imagen referencial):
 
-![Imagen 146.](/images/Imagen146.png "Imagen 146")
+![Imagen 146.](../images/Imagen146.png "Imagen 146")
 
 13.   En la parte inferior de la respuesta podrá ver las fuentes o Sources que fueron consultados para obtener el resultado mostrado. Si selecciona ese botón la lista de fuentes aparecerá en un panel derecho (imagenes referenciales):
 
-![Imagen 147.](/images/Imagen147.png "Imagen 147")
+![Imagen 147.](../images/Imagen147.png "Imagen 147")
 
-![Imagen 148.](/images/Imagen148.png "Imagen 148")
+![Imagen 148.](../images/Imagen148.png "Imagen 148")
 
 
 14.   Retorne a la página inicial del Notebook usando la barra de navegación superior izquierda:
 
-![Imagen 149.](/images/Imagen149.png "Imagen 149")
+![Imagen 149.](../images/Imagen149.png "Imagen 149")
 
 
 15.   En la zona inferior tiene la lista de recursos, así como el historial de chats que se han venido usando en el Notebook (imágenes referenciales):
 
-![Imagen 150.](/images/Imagen150.png "Imagen 150")
+![Imagen 150.](../images/Imagen150.png "Imagen 150")
 
-![Imagen 151.](/images/Imagen151.png "Imagen 151")
+![Imagen 151.](../images/Imagen151.png "Imagen 151")
 
 16.   Opcional: si las fuentes de datos son mas extensas o necesita una respuesta con mayor razonamiento puede usar el Agente Researcher para la generación de la respuesta. En la zona de prompt puede seleccionar Researcher. Luego defina los Sources (la web, archivos de trabajo del OneDrive, SharePoint, Correos, Reuniones, etc) (imagen referencial):
 
-![Imagen 152.](/images/Imagen152.png "Imagen 152")
+![Imagen 152.](../images/Imagen152.png "Imagen 152")
 
 
 17.   Los Notebooks pueden generar un resumen de audio. En la parte superior de la zona de prompt seleccione la opción Get audio overview. Aparecerá la siguiente ventana:
 
-![Imagen 153.](/images/Imagen153.png "Imagen 153")
+![Imagen 153.](../images/Imagen153.png "Imagen 153")
 
 
 18.   Seleccione el formato, voz, estilo y duración que desee. Agregue como personalización el siguiente texto:
 Usa términos simples para entendimiento de una audiencia amplia
 
 
-![Imagen 154.](/images/Imagen154.png "Imagen 154")
+![Imagen 154.](../images/Imagen154.png "Imagen 154")
 
 19.   Seleccione Generate audio. Espere unos momentos a que se genere el audio:
 
-![Imagen 155.](/images/Imagen155.png "Imagen 155")
+![Imagen 155.](../images/Imagen155.png "Imagen 155")
 
 20.   Cuando termine la generación puede hacer clic en el botón Play. Escuchará una conversación en inglés (por el momento no se puede generar en Español) a manera de Podcast conversando acerca de los contenidos del Notebook, tal que puedan ser fácilmente entendidos por personas que quieran saber más del tema.
 
 
-![Imagen 156.](/images/Imagen156.png "Imagen 156")
+![Imagen 156.](../images/Imagen156.png "Imagen 156")
