@@ -92,7 +92,7 @@ Revisa el resultado obtenido
 
 7. Aparecerá la ventana **“Consultas programadas”** indicando que la entrada se encuentra creada y en estado **“Activo”** (imagen referencial):
 
-![Imagen 6.](/images/Imagen6.png "Imagen 6")
+![Imagen 6.](../images/Imagen6.png "Imagen 6")
 
 8. Para poder ingresar a esta ventana también podrá usar la opción **“Consultas programadas”** ubicada en el menú superior derecho de su ventana:
 
