@@ -51,7 +51,7 @@ Resume en una tabla los hallazgos, indica la pagina y parrafo en la que se encue
 ```
 Debe obtener un resultado similar al siguiente (imagen referencial):
 
-![Imagen 9.](/images/Imagen9.png "Imagen 9")
+![Imagen 9.](../images/Imagen9.png "Imagen 9")
 
 6. En la página 4, bajo el titulo **Seccion 1. Los elementos del proyecto**, busque y seleccione el siguiente texto:
 
@@ -61,7 +61,7 @@ Debe obtener un resultado similar al siguiente (imagen referencial):
 
 7. En el panel de Copilot seleccione la opción Web de la parte superior (imagen referencial):
 
-![Imagen 10.](/images/Imagen10.png "Imagen 10")
+![Imagen 10.](../images/Imagen10.png "Imagen 10")
 
 8. Escriba el siguiente prompt:
 ```
@@ -70,13 +70,13 @@ Para el texto seleccionado busca 2 referencias en la web
 
 9. Copia las notas al pie propuestas (imagen referencial):
 
-![Imagen 11.](/images/Imagen11.png "Imagen 11")
+![Imagen 11.](../images/Imagen11.png "Imagen 11")
 
 10.   Retorne al documento, en el ribbon Referencias seleccione Inserta nota al pie. Pegue las referencias copiadas.
 
 El resultado final puede quedar como se muestra a continuación (imagen referencial):
 
-![Imagen 12.](/images/Imagen12.png "Imagen 12")
+![Imagen 12.](../images/Imagen12.png "Imagen 12")
 
 11.   Ubiquese en la pagina 8, sección 2, debajo del texto:
 
@@ -102,22 +102,22 @@ el texto debe tener una extension maxima de 3 parrafos, de ser posible incluye u
 ```
 14.   Copie el texto entregado por Copilot en el documento. También copie la imagen generada debajo. El resultado final podria ser similar al siguiente (imagen referencial):
 
-![Imagen 13.](/images/Imagen13.png "Imagen 13")
+![Imagen 13.](../images/Imagen13.png "Imagen 13")
 
 15.   Ubiquese en la pagina 26, en la seccion donde aparece el cuadro **“Resumen de Gastos del SSEA”**
 
 16.   Seleccione la tabla y los 3 párrafos que le siguen, desde “Como se puede ver, un 40%...” hasta “…en el uso de instrumentos para el recojo de informacion de todo el sistema”.
 A continuación una imagen referencial para mostrar la zona que debe ser seleccionada:
 
-![Imagen 14.](/images/Imagen14.png "Imagen 14")
+![Imagen 14.](../images/Imagen14.png "Imagen 14")
 
-![Imagen 15.](/images/Imagen15.png "Imagen 15")
+![Imagen 15.](../images/Imagen15.png "Imagen 15")
 
 17.   Usando la botonera flotante seleccione Copilot y escriba el siguiente prompt:
 **Obten 2 insights adicionales a los indicados con relacion a la tabla “Resumen de Gastos del SSEA”**
 
 18.   Revise los insights generados. Seleccione el botón **Reemplazar**
 
-![Imagen 16.](/images/Imagen16.png "Imagen 16")
+![Imagen 16.](../images/Imagen16.png "Imagen 16")
 
 19.   Guarde el documento.
