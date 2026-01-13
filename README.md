@@ -98,6 +98,7 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
   - **Descripción**: En este laboratorio, aprenderás a utilizar Microsoft 365 Copilot Chat para crear un espacio estructurado para resumir informes y mejorar ideas, uso de archivos y fuentes de datos.
 
  - ⏱️**Duración estimada**: 26 min.
+
   
 ---
 
