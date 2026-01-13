@@ -40,7 +40,7 @@ Revisa el resultado obtenido (imagen referencial)
 
 Tambien podrás revisar los ítems o enlaces que se muestran en los resultados, por ejemplo (imagen referencial): 
 
-![Imagen 2.](/images/Imagen2.png "Imagen 2")
+![Imagen 2.](../images/Imagen2.png "Imagen 2")
 
 5. Escribe el siguiente prompt 
 ```
@@ -49,7 +49,7 @@ entregame la respuesta en un pdf descargable
 
 6. Descarga y revisa el documento PDF proporcionado (imagen referencial)
 
-![Imagen 3.](/images/Imagen3.png "Imagen 3")
+![Imagen 3.](../images/Imagen3.png "Imagen 3")
 
 7. Ahora aplica los siguientes prompts alternativos para obtener diferentes tipos de resúmenes;
 
@@ -82,13 +82,13 @@ Revisa el resultado obtenido
 
 4. En los botones que aparecen debajo del resultado, seleccione el botón con puntos suspensivos  ``` (…) ``` y la opción``` “Programar esta consulta” ```(imagen referencial):
 
-![Imagen 4.](/images/Imagen4.png "Imagen 4")
+![Imagen 4.](../images/Imagen4.png "Imagen 4")
 
 5. Aparecerá la ventana **“Programar una consulta”** (imagen referencial):
 
 6. Configurar la recurrencia según se requiera **(Comienza, Cada**, etc). Tambien se puede definir el numero de veces que se ejecutará la consulta. Verifique que la casilla **“Recibir un correo electrónico cuando las respuestas estén listas”** este marcado.Finalmente de clic en **Guardar** (imagen referencial)
 
-![Imagen 5.](/images/Imagen5.png "Imagen 5")
+![Imagen 5.](../images/Imagen5.png "Imagen 5")
 
 7. Aparecerá la ventana **“Consultas programadas”** indicando que la entrada se encuentra creada y en estado **“Activo”** (imagen referencial):
 
@@ -96,7 +96,7 @@ Revisa el resultado obtenido
 
 8. Para poder ingresar a esta ventana también podrá usar la opción **“Consultas programadas”** ubicada en el menú superior derecho de su ventana:
 
-![Imagen 7.](/images/Imagen7.png "Imagen 7")
+![Imagen 7.](../images/Imagen7.png "Imagen 7")
 
 **Nota:** Cada vez que se ejecute la consulta le llegará un correo informativo con un enlace, que le llevará al resultado correspondiente desde la ventana de Copilot.
 
@@ -108,7 +108,7 @@ Analiza mi actividad semanal en Teams y entrégame un resumen ejecutivo indicand
 
 10. Usando el menú mostrado en el paso previo, seleccione la opción **Configuracion**, luego seleccione la opción **Personalización**, debe ver una ventana similar a la slguiente (imagen referencial)
 
-![Imagen 8.](/images/Imagen8.png "Imagen 8")
+![Imagen 8.](../images/Imagen8.png "Imagen 8")
 
 11.   En el campo de texto ingrese el siguiente texto como prueba:
 
