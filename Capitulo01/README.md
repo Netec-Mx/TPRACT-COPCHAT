@@ -1,5 +1,3 @@
-# Taller práctico de Copilot Chat - Guía de Laboratorios 
-
 ### Laboratorio 1: Teams: Resumen ejecutivo semanal
 
 **Duración:** 22 minutos
