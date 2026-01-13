@@ -40,7 +40,7 @@ Dame un resumen general de los datos del archivo, indicando cuántas filas hay y
 
 4. Observa la respuesta devuelta por Copilot, debe ser similar a lo siguiente (imagen referencial):
 
-![Imagen 50.](/images/Imagen50.png "Imagen 50")
+![Imagen 50.](../images/Imagen50.png "Imagen 50")
 
 5. Aplica ahora el siguiente prompt:
 ```
@@ -48,11 +48,11 @@ Indica cuántas compras se realizaron por cada Ciudad.
 ```
 6. Observa el resultado entregado por Copilot, debe ser similar al siguiente (imagen referencial):
 
-![Imagen 51.](/images/Imagen51.png "Imagen 51")
+![Imagen 51.](../images/Imagen51.png "Imagen 51")
 
 7. Si desea puede insertar los datos de la tabla en una hoja nueva usando el botón + Agregar a la nueva hoja
 
-![Imagen 52.](/images/Imagen52.png "Imagen 52")
+![Imagen 52.](../images/Imagen52.png "Imagen 52")
 
 8. Puedes ahora aplicar los siguientes prompts y ver su resultado:
 ```
@@ -71,12 +71,12 @@ Agrupa las compras por Rango de Edad (18-25, 26-35, 36-50, 51+), y calcula el to
 
 10.   Observa el resultado entregado por Copilot. Si desea se puede agregar a una hoja nueva (imagen referencial):
 
-![Imagen 53.](/images/Imagen53.png "Imagen 53")
+![Imagen 53.](../images/Imagen53.png "Imagen 53")
 
 
 11.   También se dispone de sugerencias adicionales de Copilot para obtener insights mas precisos, puede utilizar el que desee (imagen referencial):
 
-![Imagen 54.](/images/Imagen54.png "Imagen 54")
+![Imagen 54.](../images/Imagen54.png "Imagen 54")
 
 
 12.   Aplica ahora el siguiente prompt:
@@ -85,7 +85,7 @@ Muestra el ticket promedio por Región.
 ```
 (imagen referencial del resultado)
 
-![Imagen 55.](/images/Imagen55.png "Imagen 55")
+![Imagen 55.](../images/Imagen55.png "Imagen 55")
 
 
 13.   Puedes ahora aplicar los siguientes prompts y ver su resultado:
@@ -108,7 +108,7 @@ Identifica patrones de compra por TipoCliente: ¿qué categorías prefieren los 
 
 15.   Observa el resultado obtenido (imagen referencial):
 
-![Imagen 56.](/images/Imagen56.png "Imagen 56")
+![Imagen 56.](../images/Imagen56.png "Imagen 56")
 
 16.   Puedes ahora aplicar los siguientes prompts y ver su resultado:
 
@@ -143,12 +143,12 @@ Sugiere 3 indicadores KPI utiles, por cada uno indicame el nombre, que mide y po
 
 5. Observe el resultado que muestra Copilot, puede ser algo similar a lo siguiente (imagen referencial):
 
-![Imagen 57.](/images/Imagen57.png "Imagen 57")
+![Imagen 57.](../images/Imagen57.png "Imagen 57")
 
  
 En la zona inferior de la respuesta dispone de botones para agregar la respuesta a una hoja nueva o copiarla
 
-![Imagen 58.](/images/Imagen58.png "Imagen 58")
+![Imagen 58.](../images/Imagen58.png "Imagen 58")
 
 6. Ahora aplique el siguiente prompt:
 
@@ -161,15 +161,15 @@ Cual seria la formula del KPI Tasa de crecimiento semanal de suscriptores
 
 7. Observe la respuesta de Copilot (imagen referencial):
 
-![Imagen 59.](/images/Imagen59.png "Imagen 59")
+![Imagen 59.](../images/Imagen59.png "Imagen 59")
 
 8. Haga clic en el botón ubicado en la parte inferior de la respuesta + Inserta una columna
 
-![Imagen 60.](/images/Imagen60.png "Imagen 60")
+![Imagen 60.](../images/Imagen60.png "Imagen 60")
 
 9. Se debe poder apreciar la columna agregada a la tabla de datos (imagen referencial):
 
-![Imagen 61.](/images/Imagen61.png "Imagen 61")
+![Imagen 61.](../images/Imagen61.png "Imagen 61")
 
 10.   Escriba el siguiente prompt:
 ```
@@ -177,6 +177,6 @@ Que significa #N/D ?
 ```
 11.   Observa la explicación devuelta por Copilot, se entiende que #N/D no es un error:
 
-![Imagen 62.](/images/Imagen62.png "Imagen 62")
+![Imagen 62.](../images/Imagen62.png "Imagen 62")
 
 12.   Repita los pasos previos si desea agregar los otros KPIs recomendados por Copilot.
