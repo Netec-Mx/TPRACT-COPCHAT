@@ -1,6 +1,6 @@
 ### Laboratorio 8: Microsoft 365 Copilot: Uso de Agentes del Agent Store
 
-**Duración:** 20 minutos
+**Duración:** 30 minutos
 
 ## Descripción General
 En este laboratorio, aprenderás a utilizar Microsoft 365 Copilot Chat para usar agentes built-in como Researcher, Analyst, Idea, Writing Coach, Skills, Career, Learning para diferentes escenarios.
