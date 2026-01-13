@@ -23,7 +23,7 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 
 
 
-### [Laboratorio 1: Teams: Resumen ejecutivo semanal](Capitulo01/README.md) 
+### [Laboratorio 1: Teams: Resumen ejecutivo semanal](Capitulo01/) 
 
   - **Descripción**: En este laboratorio, aprenderás a utilizar Microsoft 365 Copilot en Teams y Microsoft 365 Copilot Chat para generar un resumen semanal en PDF con prompts programadods.
 
@@ -31,7 +31,7 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 
 
 
-### [Laboratorio 2: Word + Copilot – Generación de reporte final](Capitulo02/README.md)
+### [Laboratorio 2: Word + Copilot – Generación de reporte final](Capitulo02/)
 
   - **Descripción**: En este laboratorio, aprenderás a utilizar Copilot en Word para crear un informe final con insights adicionales, utilizando información obtenida desde la web.
 
@@ -39,7 +39,7 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 
 
 
-### [Laboratorio 3: Excel: Trabajo con Workbooks](Capitulo03/README.md)
+### [Laboratorio 3: Excel: Trabajo con Workbooks](Capitulo03/)
 
   - **Descripción**: En este laboratorio, aprenderás a utilizar Copilot para Excel para aplicar formato condicional, varios otros formatos, columnas calculadas y pedir asistencia con fórmulas.
 
@@ -47,7 +47,7 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 
 
 
-### [Laboratorio 4: Excel : Generación automática de datos](Capitulo04/README.md)
+### [Laboratorio 4: Excel : Generación automática de datos](Capitulo04/)
 
   - **Descripción**: En este laboratorio, aprenderás a utilizar Microsoft 365 Copilot en Excel para crear data sintética, tomando ejemplos de clientes, productos y compras.
 
@@ -55,7 +55,7 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 
 
 
-### [Laboratorio 5: Excel : Análisis de datos](Capitulo05/README.md)
+### [Laboratorio 5: Excel : Análisis de datos](Capitulo05/)
 
   - **Descripción**: En este laboratorio, aprenderás a utilizar Copilot para Excel para solicitud de KPIs, y realizar consultas variadas de análisis desde nivel básico hasta avanzado.
 
@@ -63,7 +63,7 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 
 
 
-### [Laboratorio 6: Excel : Creación de gráficos dinámicos](Capitulo06/README.md)
+### [Laboratorio 6: Excel : Creación de gráficos dinámicos](Capitulo06/)
 
   - **Descripción**: En este laboratorio, aprenderás a utilizar Copilot para Excel para crear diferentes tipos de gráficos a partir de cuadro de datos.
 
@@ -71,7 +71,7 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 
 
 
-### [Laboratorio 7: Excel: Análisis con tablas dinámicas](Capitulo07/README.md)
+### [Laboratorio 7: Excel: Análisis con tablas dinámicas](Capitulo07/)
 
   - **Descripción**: En este laboratorio, aprenderás a utilizar Copilot de Excel para crear tablas dinámicas con filtros y resumen mensual.
 
@@ -79,21 +79,21 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 
 
 
-### [Laboratorio 8: Microsoft 365 Copilot: Uso de Agentes del Agent Store](Capitulo08/README.md)
+### [Laboratorio 8: Microsoft 365 Copilot: Uso de Agentes del Agent Store](Capitulo08/)
 
   - **Descripción**: En este laboratorio, aprenderás a utilizar Microsoft 365 Copilot Chat para usar agentes built-in como Researcher, Analyst, Idea, Writing Coach, Skills, Career, Learning para diferentes escenarios.
 
   - ⏱️**Duración estimada**: 30 min.
 
 
-### [Laboratorio 9: Microsoft 365 Copilot: Creación de Agente especializado](Capitulo09/README.md)
+### [Laboratorio 9: Microsoft 365 Copilot: Creación de Agente especializado](Capitulo09/)
 
   - **Descripción**: En este laboratorio, aprenderás a utilizar Microsoft 365 Copilot Chat para crear un agente que use fuentes de datos personalizadas, contexto, indicaciones, asi como capacidades específicas.
 
   - ⏱️**Duración estimada**: 30 min.
 
 
-### [Laboratorio 10: Microsoft 365 Copilot: Crear un Notebook tipo LM](Capitulo10/README.md)
+### [Laboratorio 10: Microsoft 365 Copilot: Crear un Notebook tipo LM](Capitulo10/)
 
   - **Descripción**: En este laboratorio, aprenderás a utilizar Microsoft 365 Copilot Chat para crear un espacio estructurado para resumir informes y mejorar ideas, uso de archivos y fuentes de datos.
 
