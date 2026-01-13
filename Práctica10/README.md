@@ -1,4 +1,4 @@
-### Laboratorio 10: : Microsoft 365 Copilot: Crear un Notebook tipo LM
+### Laboratorio 10: Microsoft 365 Copilot: Crear un Notebook tipo LM
 
 **Duración:** 26 minutos
 
