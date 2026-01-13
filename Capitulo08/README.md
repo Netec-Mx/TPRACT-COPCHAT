@@ -41,7 +41,7 @@ Los documentos a disposición son los siguientes:
 
 2. En el menu Izquierdo lateral seleccionar la opción All agents. Se abrirá la página Agent Store, similar a que se muestra a continuación:
 
-![Imagen 82.](/images/Imagen82.png "Imagen 82")
+![Imagen 82.](../images/Imagen82.png "Imagen 82")
 
 
 3. Seleccionar el agente Researcher.
@@ -49,7 +49,7 @@ Los documentos a disposición son los siguientes:
 
 4. Debe aparecer la página de agente Researcher.
 
-![Imagen 83.](/images/Imagen83.png "Imagen 83")
+![Imagen 83.](../images/Imagen83.png "Imagen 83")
 
 5. Aplique el siguiente prompt:
 
@@ -59,9 +59,9 @@ Actúa como analista de tendencias de mercado. Busca las 5 fuentes más reciente
 
 6. Observe el resultado. Podria ser similar al siguiente (imágenes referenciales):
 
-![Imagen 84.](/images/Imagen84.png "Imagen 84")
+![Imagen 84.](../images/Imagen84.png "Imagen 84")
 
-![Imagen 85.](/images/Imagen85.png "Imagen 85")
+![Imagen 85.](../images/Imagen85.png "Imagen 85")
 
 7. Aplique el siguiente prompt:
 
@@ -71,9 +71,9 @@ Crea un resumen ejecutivo con los tres escenarios y sus recomendaciones basado e
 
 8. Observe la respuesta entregada, puede ser similar a la siguiente (imagen referencial):
 
-![Imagen 86.](/images/Imagen86.png "Imagen 86")
+![Imagen 86.](../images/Imagen86.png "Imagen 86")
 
-![Imagen 87.](/images/Imagen87.png "Imagen 87")
+![Imagen 87.](../images/Imagen87.png "Imagen 87")
 
 9. Aplique el siguiente prompt 
 
@@ -87,9 +87,9 @@ A partir del documento /6Situación Inmobiliaria México – Primer semestre 2
 
 10.   Observe la respuesta que entregue Copilot:
 
-![Imagen 88.](/images/Imagen88.png "Imagen 88")
+![Imagen 88.](../images/Imagen88.png "Imagen 88")
 
-![Imagen 89.](/images/Imagen89.png "Imagen 89")
+![Imagen 89.](../images/Imagen89.png "Imagen 89")
 
 11.   Aplique el siguiente prompt 
 
@@ -98,7 +98,7 @@ Busca fuentes recientes (últimos 12 meses) que comparen herramientas de gestió
 ```
 12.   Observe la respuesta que entregue Copilot (imagen referencial):
 
-![Imagen 90.](/images/Imagen90.png "Imagen 90")
+![Imagen 90.](../images/Imagen90.png "Imagen 90")
 
 
 ### Ejercicio 2:  Uso del agente Analyst
@@ -113,7 +113,7 @@ Busca fuentes recientes (últimos 12 meses) que comparen herramientas de gestió
 
 2. En el menu Izquierdo lateral seleccionar la opción All agents. Se abrirá la página Agent Store, similar a que se muestra a continuación:
 
-![Imagen 91.](/images/Imagen91.png "Imagen 91")
+![Imagen 91.](../images/Imagen91.png "Imagen 91")
 
 
 
@@ -121,7 +121,7 @@ Busca fuentes recientes (últimos 12 meses) que comparen herramientas de gestió
 
 4. Debe aparecer la página de agente Analyst.
 
-![Imagen 92.](/images/Imagen92.png "Imagen 92")
+![Imagen 92.](../images/Imagen92.png "Imagen 92")
 
 
 5. Agregue el documento 6Situación Inmobiliaria México – Primer semestre 2024.pdf. Aplique el siguiente prompt:
@@ -132,9 +132,9 @@ Resume los conceptos técnicos del documento
 
 6. Observe como Copilot analiza y muestra su proceso de razonamiento, para finalmente entregar una respuesta (imágenes referenciales):
 
-![Imagen 93.](/images/Imagen93.png "Imagen 93")
+![Imagen 93.](../images/Imagen93.png "Imagen 93")
 
-![Imagen 94.](/images/Imagen94.png "Imagen 94")
+![Imagen 94.](../images/Imagen94.png "Imagen 94")
 
 7. Aplique ahora el siguiente prompt:
 
@@ -145,7 +145,7 @@ Actúa como analista de tendencias y predice cómo cambiará el comportamiento d
 
 8. Observe el resultado que entrega Copilot (imagen referencial):
 
-![Imagen 95.](/images/Imagen95.png "Imagen 95")
+![Imagen 95.](../images/Imagen95.png "Imagen 95")
 
 9. Aplique ahora el siguiente prompt:
 
@@ -164,7 +164,7 @@ Presenta la información en formato de tabla comparativa y finaliza con una reco
 
 10.   Observe el resultado que entrega Copilot (imagen referencial):
 
-![Imagen 96.](/images/Imagen96.png "Imagen 96")
+![Imagen 96.](../images/Imagen96.png "Imagen 96")
 
 11.   Aplique ahora el siguiente prompt:
 
@@ -177,9 +177,9 @@ Evalúa los pros y contras de implementar una nueva estrategia de ventas digital
 12.   Observe el resultado que entrega Copilot (imagen referencial):
 
 
-![Imagen 97.](/images/Imagen97.png "Imagen 97")
+![Imagen 97.](../images/Imagen97.png "Imagen 97")
 
-![Imagen 98.](/images/Imagen98.png "Imagen 98")
+![Imagen 98.](../images/Imagen98.png "Imagen 98")
 
 13.   Aplique ahora el siguiente prompt:
 
@@ -202,7 +202,7 @@ Termina con una conclusión breve (máx. 100 palabras) explicando por qué una e
 14.   Observe el resultado que devuelve Copilot (imagen referencial):
 
 
-![Imagen 99.](/images/Imagen99.png "Imagen 99")
+![Imagen 99.](../images/Imagen99.png "Imagen 99")
 
 ### Ejercicio 3:  Uso del agente idea
 
@@ -216,7 +216,7 @@ Termina con una conclusión breve (máx. 100 palabras) explicando por qué una e
 
 2. En el menu Izquierdo lateral seleccionar la opción All agents. Se abrirá la página Agent Store, similar a que se muestra a continuación:
 
-![Imagen 100.](/images/Imagen100.png "Imagen 100")
+![Imagen 100.](../images/Imagen100.png "Imagen 100")
 
 
 3. Seleccionar el agente Idea.
@@ -238,7 +238,7 @@ Finaliza recomendando la mejor analogía para explicar el informe a una audienci
 
 6. Observe el resultado que devuelve Copilot (imagen referencial):
 
-![Imagen 101.](/images/Imagen101.png "Imagen 101")
+![Imagen 101.](../images/Imagen101.png "Imagen 101")
 
 7. Aplique el siguiente prompt:
 
@@ -255,7 +255,7 @@ Crea un checklist de onboarding para una persona nueva que ingresa al equipo de 
 ```
 8. Observe el resultado que devuelve Copilot (imagen referencial):
 
-![Imagen 102.](/images/Imagen102.png "Imagen 102")
+![Imagen 102.](../images/Imagen102.png "Imagen 102")
 
 
 ### Ejercicio 4:  Uso del agente Writing Coach
@@ -269,13 +269,13 @@ Crea un checklist de onboarding para una persona nueva que ingresa al equipo de 
 
 2. En el menu Izquierdo lateral seleccionar la opción **All agents**. Se abrirá la página Agent Store, similar a que se muestra a continuación:
 
-![Imagen 103.](/images/Imagen103.png "Imagen 103")
+![Imagen 103.](../images/Imagen103.png "Imagen 103")
 
 3. Seleccionar el agente Writing Coach.
 
 4. Debe aparecer la página de agente Writing Coach.
 
-![Imagen 104.](/images/Imagen104.png "Imagen 104")
+![Imagen 104.](../images/Imagen104.png "Imagen 104")
 
 5. Aplique el siguiente prompt:
 
@@ -299,7 +299,7 @@ Usa un lenguaje claro y ordenado, con títulos y viñetas, para que el plan pued
 
 6. Observe el resultado que devuelve Copilot (imagen referencial):
 
-![Imagen 105.](/images/Imagen105.png "Imagen 105")
+![Imagen 105.](../images/Imagen105.png "Imagen 105")
 
 7. Aplique el siguiente prompt:
 
@@ -316,7 +316,7 @@ Usa lenguaje claro y formato con títulos y viñetas, listo para copiar en un do
 
 8. Observe el resultado devuelto (imagen referencial):
 
-![Imagen 106.](/images/Imagen106.png "Imagen 106")
+![Imagen 106.](../images/Imagen106.png "Imagen 106")
 
 ### Ejercicio 5: Uso del agente Skills
 
@@ -329,14 +329,14 @@ Usa lenguaje claro y formato con títulos y viñetas, listo para copiar en un do
 
 2. En el menu Izquierdo lateral seleccionar la opción All agents. Se abrirá la página Agent Store, similar a que se muestra a continuación:
 
-![Imagen 107.](/images/Imagen107.png "Imagen 107")
+![Imagen 107.](../images/Imagen107.png "Imagen 107")
 
 
 3. Seleccionar el agente Skills.
 
 4. Debe aparecer la página de agente Skills.
 
-![Imagen 108.](/images/Imagen108.png "Imagen 108")
+![Imagen 108.](../images/Imagen108.png "Imagen 108")
 
 5. Aplique el siguiente prompt:
 
@@ -354,7 +354,7 @@ Estructura la respuesta en pasos numerados, con pequeñas comprobaciones al fina
 
 6. Observe la respuesta que devuelve Copilot:
 
-![Imagen 109.](/images/Imagen109.png "Imagen 109")
+![Imagen 109.](../images/Imagen109.png "Imagen 109")
 
 
 7. Aplique el siguiente prompt:
@@ -376,7 +376,7 @@ Incluye:
 ```
 8. Observe el resultado que devuelve Copilot (imagen referencial):
 
-![Imagen 110.](/images/Imagen110.png "Imagen 110")
+![Imagen 110.](../images/Imagen110.png "Imagen 110")
 
 9. Ahora aplique el siguiente prompt:
 
@@ -398,9 +398,9 @@ Termina con una checklist corta de 8 a 10 puntos para comprobar que el informe q
 
 10.   Observe la respuesta que devuelve Copilot (imágenes referenciales):
 
-![Imagen 111.](/images/Imagen111.png "Imagen 111")
+![Imagen 111.](../images/Imagen111.png "Imagen 111")
 
-![Imagen 112.](/images/Imagen112.png "Imagen 112")
+![Imagen 112.](../images/Imagen112.png "Imagen 112")
 
 11.   Aplique el siguiente prompt:
 
@@ -422,9 +422,9 @@ Presenta el resultado de forma estructurada, con títulos y viñetas, para que s
 12.   Observe la respuesta que devuelve Copilot (imagenes referenciales):
 
 
-![Imagen 113.](/images/Imagen113.png "Imagen 113")
+![Imagen 113.](../images/Imagen113.png "Imagen 113")
 
-![Imagen 114.](/images/Imagen114.png "Imagen 114")
+![Imagen 114.](../images/Imagen114.png "Imagen 114")
 
 ### Ejercicio 6: Uso del agente Career Coach
 
@@ -437,7 +437,7 @@ Presenta el resultado de forma estructurada, con títulos y viñetas, para que s
 
 2. En el menu Izquierdo lateral seleccionar la opción All agents. Se abrirá la página Agent Store, similar a que se muestra a continuación:
 
-![Imagen 115.](/images/Imagen115.png "Imagen 115")
+![Imagen 115.](../images/Imagen115.png "Imagen 115")
 
 
 3. Seleccionar el agente Career Coach.
@@ -445,7 +445,7 @@ Presenta el resultado de forma estructurada, con títulos y viñetas, para que s
 4. Debe aparecer la página de agente Career Coach.
 
 
-![Imagen 116.](/images/Imagen116.png "Imagen 116")
+![Imagen 116.](../images/Imagen116.png "Imagen 116")
 
 5. Adjunte su hoja de vida. Luego aplique el siguiente prompt:
 
@@ -484,7 +484,7 @@ Actúa como mi Career Coach y ayúdame a crear un plan de desarrollo profesional
 
 2. En el menu Izquierdo lateral seleccionar la opción All agents. Se abrirá la página Agent Store, similar a que se muestra a continuación:
 
-![Imagen 117.](/images/Imagen117.png "Imagen 117")
+![Imagen 117.](../images/Imagen117.png "Imagen 117")
 
 
 3. Seleccionar el agente **Learning Coach**.
@@ -504,7 +504,7 @@ Usa el documento PDF “Situación Inmobiliaria México – Primer semestre 2024
 
 6. Observe el resultado que entrega Copilot (imagen referencial):
 
-![Imagen 118.](/images/Imagen118.png "Imagen 118")
+![Imagen 118.](../images/Imagen118.png "Imagen 118")
 
 7. Aplique ahora el siguiente prompt:
 
@@ -520,4 +520,4 @@ Después, muéstrame 3 usos concretos de blockchain en el área de finanzas de u
 
 8. Observe el resultado que devuelve Copilot (imagen referencial):
 
-![Imagen 119.](/images/Imagen119.png "Imagen 119")
+![Imagen 119.](../images/Imagen119.png "Imagen 119")
