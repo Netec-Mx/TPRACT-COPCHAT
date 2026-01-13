@@ -43,7 +43,7 @@ Crea un grafico "Subscripciones por semana Plan Basico" que muestre la tendencia
 
 5. Observe el resultado que entrega Copilot
 
-![Imagen 63.](/images/Imagen63.png "Imagen 63")
+![Imagen 63.](../images/Imagen63.png "Imagen 63")
 
 6. Haga clic en **+ Agregar a la nueva hoja**
 
@@ -60,7 +60,7 @@ Genera un gráfico de barras que compare el total de ventas por Categoría
 
 11.   Se debe obtener un resultado similar al siguiente:
 
-![Imagen 64.](/images/Imagen64.png "Imagen 64")
+![Imagen 64.](../images/Imagen64.png "Imagen 64")
 
 12.   Retorne a la primera hoja. Ahora aplique el siguiente prompt:
 
@@ -71,13 +71,13 @@ Crea un gráfico circular que muestre la participación porcentual del Precio Fi
 
 14.   Se agregará la hoja con un gráfico con datos
 
-![Imagen 65.](/images/Imagen65.png "Imagen 65")
+![Imagen 65.](../images/Imagen65.png "Imagen 65")
 
 15.   Puede usar la tabla para quitar algunos valores, lo cual será reflejado en el gráfico
 
-![Imagen 66.](/images/Imagen66.png "Imagen 66")
+![Imagen 66.](../images/Imagen66.png "Imagen 66")
 
-![Imagen 67.](/images/Imagen67.png "Imagen 67")
+![Imagen 67.](../images/Imagen67.png "Imagen 67")
 
 16.   Use los siguientes prompts para obtener gráficos con insights adicionales:
 
