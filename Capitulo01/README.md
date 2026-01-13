@@ -36,7 +36,7 @@ Genera un resumen ejecutivo de mis actividades de la última semana en Microsoft
 
 Revisa el resultado obtenido (imagen referencial) 
 
-![Imagen 1.](/images/Imagen1.png "Imagen 1")
+![Imagen 1.](../images/Imagen1.png "Imagen 1")
 
 Tambien podrás revisar los ítems o enlaces que se muestran en los resultados, por ejemplo (imagen referencial): 
 
