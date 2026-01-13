@@ -2,7 +2,7 @@
 
 ### Laboratorio 1: Teams: Resumen ejecutivo semanal
 
-**Duración:** 20 minutos
+**Duración:** 22 minutos
 
 ## Descripción General
 En este laboratorio, aprenderás a utilizar Microsoft 365 Copilot en Teams y Microsoft 365 Copilot Chat para generar un resumen semanal en PDF con prompts programadods. 
